@@ -4,7 +4,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 </p>
 
 ---
-
+https://i.makeagif.com/media/11-11-2015/W7e1lM.mp4
 ## ⚡ Perfil Técnico
 
 <table>
