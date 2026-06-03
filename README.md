@@ -5,6 +5,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 
 ---
 https://i.makeagif.com/media/11-11-2015/W7e1lM.mp4
+https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni%C3%B1o-con-gafas-bailando-edit.gif
 ## ⚡ Perfil Técnico
 
 <table>
