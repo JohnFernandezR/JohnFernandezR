@@ -20,7 +20,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 **Conocimientos**
 - **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS) Diseño (Figma).
-- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga), pentesting y auditoría de redes (Wireshark, Nmap).
+- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga,etc), pentesting y auditoría de redes (Wireshark, Nmap).
 - **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB).
 
 </td>
