@@ -7,7 +7,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 
 <p align="center">
-  <img src="animacion.gif" width="600" alt="Cyber GIF" />
+  <img src="https://raw.githubusercontent.com/JohnFernandezR/JohnFernandezR/main/animacion.gif" width="600" alt="Cyber GIF" />
 </p>
 
 ---
