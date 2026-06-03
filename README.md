@@ -3,7 +3,7 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica.</sub>
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
 </p>
 
 <div align="center">
@@ -17,21 +17,19 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <table>
 <tr>
 <td width="50%">
-  
-**Conocimientos**
 
-- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS) Diseño (Figma).
-- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga,etc), pentesting y auditoría de redes (Wireshark, Nmap).
+**Conocimientos**
+- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, C++) y Frontend (Vue.js, JS, HTML, CSS).
+- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga), pentesting y auditoría de redes (Wireshark, Nmap).
 - **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB).
 
 </td>
 
 <td width="50%">
-  
-**Entorno de trabajo**
 
+**Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP), Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
-- **🔧 Hardware:** Mantenimiento, reparación y diagnóstico técnico de equipos.
+- **🔧 Herramientas & Hardware:** Figma, Mantenimiento y diagnóstico técnico de equipos.
 - **🤝 Habilidades:** Resolución de problemas complejos, trabajo colaborativo, disciplina y aprendizaje continuo.
 
 </td>
@@ -44,7 +42,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 ### 💻 Desarrollo & Diseño
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring,vue,php,figma&theme=dark" alt="Desarrollo" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring,vue,figma&theme=dark" alt="Desarrollo" />
 </p>
 
 ### ⚙️ Infraestructura & DevOps
@@ -61,6 +59,36 @@ Desarrollo  · Ciberseguridad · Hacking Ético
   <img src="https://img.shields.io/badge/Inteligencia_OSINT-000000?style=for-the-badge&logo=torbrowser&logoColor=00ff00" alt="OSINT" />
   <img src="https://img.shields.io/badge/Wireshark_&_Nmap-000000?style=for-the-badge&logo=wireshark&logoColor=00ff00" alt="Net Analysis" />
 </p>
+
+---
+
+## 🧪 Experiencia Aplicada
+
+<table>
+<tr>
+<td width="50%">
+
+### EcoCarbon
+*Estimación de captura de carbono mediante visión artificial.*
+
+- Prototipado utilizando Python y TensorFlow.
+- Detección de vegetación en imágenes.
+- Trabajo en equipo multidisciplinario.
+
+</td>
+
+<td width="50%">
+
+### Servidor VPS "Fauna Araucanía"
+*Configuración y administración de servicios Linux.*
+
+- Despliegue de Apache, PHP y MariaDB.
+- Configuración de DNS, FTP y servidores de correo.
+- Elaboración de documentación técnica detallada.
+
+</td>
+
+</table>
 
 ---
 
@@ -111,7 +139,6 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=0a0a0a&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha" />
 </div>
 
