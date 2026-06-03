@@ -92,29 +92,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 </tr>
 <tr>
 <td width="50%">
-
-### EcoSistema UFRO
-*Sistema de economía circular e incentivo al reciclaje.*
-
-- Arquitectura y desarrollo backend con Spring Boot.
-- Implementación de diagramas de despliegue UML.
-- Integración de buenas prácticas y seguridad de datos.
-- Diseño orientado a la escalabilidad.
-
-</td>
-
-<td width="50%">
-
-### Task Management API
-*API REST con enfoque en despliegue continuo.*
-
-- Desarrollo de servicios backend.
-- Implementación estricta de metodologías DevOps.
-- Contenerización de entornos utilizando Docker.
-- Gestión de ramas y versiones mediante GitFlow.
-
-</td>
-</tr>
+  
 </table>
 
 ---
@@ -165,7 +143,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=0a0a0a&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha de contribuciones" />
 </div>
 
