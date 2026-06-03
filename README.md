@@ -1,30 +1,32 @@
 <h1 align="center">Ingeniero Informático</h1>
 <p align="center">
-Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
+Desarrollo  · Ciberseguridad · Hacking Ético
+</p>
+<p align="center">
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>[cite: 2]
 </p>
 
 ---
-https://i.makeagif.com/media/11-11-2015/W7e1lM.mp4
-https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni%C3%B1o-con-gafas-bailando-edit.gif
+
 ## ⚡ Perfil Técnico
 
 <table>
 <tr>
 <td width="50%">
 
-**Especialización**
-- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, C++) y Frontend (JS, HTML, CSS).
-- **🛡️ Ciberseguridad:** Hacking Ético, OSINT, pentesting y auditoría de redes.
-- **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos.
+**Conocimientos**
+- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP[cite: 2], C++) y Frontend (Vue.js[cite: 2], JS, HTML, CSS).
+- **🛡️ Ciberseguridad:** Kali Linux[cite: 2], Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga)[cite: 2], pentesting y auditoría de redes (Wireshark, Nmap)[cite: 2].
+- **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB)[cite: 2].
 
 </td>
 
 <td width="50%">
 
 **Entorno de trabajo**
-- **⚙️ Infra & DevOps:** Linux (Arch Linux, Hyprland, Zsh), Docker, Git/GitFlow, SonarQube.
-- **🔧 Hardware:** Mantenimiento y diagnóstico técnico de equipos.
-- **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
+- **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP)[cite: 2], Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
+- **🔧 Herramientas & Hardware:** Figma[cite: 2], Mantenimiento y diagnóstico técnico de equipos.
+- **🤝 Habilidades:** Resolución de problemas complejos, trabajo colaborativo[cite: 2], disciplina[cite: 2] y aprendizaje continuo[cite: 2].
 
 </td>
 </tr>
@@ -34,24 +36,25 @@ https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni
 
 ## 🧩 Stack Principal
 
-### 💻 Desarrollo
+### 💻 Desarrollo & Diseño
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring&theme=dark" alt="Desarrollo" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring,vue,php,figma&theme=dark" alt="Desarrollo" />
 </p>
 
 ### ⚙️ Infraestructura & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git&theme=dark" alt="Infraestructura" />
+  <img src="https://skillicons.dev/icons?i=arch,kali,linux,docker,git,mysql&theme=dark" alt="Infraestructura" />
   <br><br>
   <!-- Herramientas específicas con botones sólidos -->
   <img src="https://img.shields.io/badge/GitFlow-000000?style=for-the-badge&logo=git&logoColor=00ff00" alt="GitFlow" />
   <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=00ff00" alt="SonarQube" />
 </p>
 
-### 🛡️ Ciberseguridad
+### 🛡️ Ciberseguridad & Redes
 <p align="center">
   <img src="https://img.shields.io/badge/BlackArch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=00ff00" alt="BlackArch" />
   <img src="https://img.shields.io/badge/Inteligencia_OSINT-000000?style=for-the-badge&logo=torbrowser&logoColor=00ff00" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Wireshark_&_Nmap-000000?style=for-the-badge&logo=wireshark&logoColor=00ff00" alt="Net Analysis" />
 </p>
 
 ---
@@ -59,6 +62,29 @@ https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni
 ## 🧪 Experiencia Aplicada
 
 <table>
+<tr>
+<td width="50%">
+
+### EcoCarbon
+*Estimación de captura de carbono mediante visión artificial.*[cite: 2]
+
+- Prototipado utilizando Python y TensorFlow.[cite: 2]
+- Detección de vegetación en imágenes.[cite: 2]
+- Trabajo en equipo multidisciplinario.[cite: 2]
+
+</td>
+
+<td width="50%">
+
+### Servidor VPS "Fauna Araucanía"
+*Configuración y administración de servicios Linux.*[cite: 2]
+
+- Despliegue de Apache, PHP y MariaDB.[cite: 2]
+- Configuración de DNS, FTP y servidores de correo.[cite: 2]
+- Elaboración de documentación técnica detallada.[cite: 2]
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -96,7 +122,7 @@ https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni
 
 - Construcción de soluciones mantenibles y seguras desde el diseño.
 - Auditoría proactiva mediante inteligencia de fuentes abiertas (OSINT).
-- Automatización y mejora continua en entornos Linux.
+- Automatización y administración de servidores en entornos Linux[cite: 2].
 - Integración de buenas prácticas (DevSecOps inicial).
 
 </td>
@@ -114,7 +140,7 @@ https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni
 **Técnicas**
 - Desarrollo Full-Stack.
 - APIs REST & Microservicios.
-- Análisis de vulnerabilidades y código.
+- Análisis de vulnerabilidades de red[cite: 2] y código.
 - Personalización avanzada de sistemas operativos.
 
 </td>
@@ -123,8 +149,8 @@ https://media1.tenor.com/m/vlIna7EJabwAAAAd/ni%C3%B1o-bailando-con-gafas-edit-ni
 
 **Profesionales**
 - Resolución de problemas técnicos complejos.
-- Aprendizaje continuo y autodidacta.
-- Adaptabilidad a nuevos entornos.
+- Comunicación efectiva[cite: 2] y aprendizaje autodidacta.
+- Adaptabilidad a nuevos entornos[cite: 2].
 - Visión emprendedora.
 
 </td>
