@@ -3,7 +3,7 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>[cite: 2]
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
 </p>
 
 ---
@@ -15,18 +15,18 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <td width="50%">
 
 **Conocimientos**
-- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP[cite: 2], C++) y Frontend (Vue.js[cite: 2], JS, HTML, CSS).
-- **🛡️ Ciberseguridad:** Kali Linux[cite: 2], Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga)[cite: 2], pentesting y auditoría de redes (Wireshark, Nmap)[cite: 2].
-- **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB)[cite: 2].
+- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS).
+- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga), pentesting y auditoría de redes (Wireshark, Nmap).
+- **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB).
 
 </td>
 
 <td width="50%">
 
 **Entorno de trabajo**
-- **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP)[cite: 2], Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
-- **🔧 Herramientas & Hardware:** Figma[cite: 2], Mantenimiento y diagnóstico técnico de equipos.
-- **🤝 Habilidades:** Resolución de problemas complejos, trabajo colaborativo[cite: 2], disciplina[cite: 2] y aprendizaje continuo[cite: 2].
+- **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP), Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
+- **🔧 Herramientas & Hardware:** Figma, Mantenimiento y diagnóstico técnico de equipos.
+- **🤝 Habilidades:** Resolución de problemas complejos, trabajo colaborativo, disciplina y aprendizaje continuo.
 
 </td>
 </tr>
@@ -66,22 +66,22 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <td width="50%">
 
 ### EcoCarbon
-*Estimación de captura de carbono mediante visión artificial.*[cite: 2]
+*Estimación de captura de carbono mediante visión artificial.*
 
-- Prototipado utilizando Python y TensorFlow.[cite: 2]
-- Detección de vegetación en imágenes.[cite: 2]
-- Trabajo en equipo multidisciplinario.[cite: 2]
+- Prototipado utilizando Python y TensorFlow.
+- Detección de vegetación en imágenes.
+- Trabajo en equipo multidisciplinario.
 
 </td>
 
 <td width="50%">
 
 ### Servidor VPS "Fauna Araucanía"
-*Configuración y administración de servicios Linux.*[cite: 2]
+*Configuración y administración de servicios Linux.*
 
-- Despliegue de Apache, PHP y MariaDB.[cite: 2]
-- Configuración de DNS, FTP y servidores de correo.[cite: 2]
-- Elaboración de documentación técnica detallada.[cite: 2]
+- Despliegue de Apache, PHP y MariaDB.
+- Configuración de DNS, FTP y servidores de correo.
+- Elaboración de documentación técnica detallada.
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 - Construcción de soluciones mantenibles y seguras desde el diseño.
 - Auditoría proactiva mediante inteligencia de fuentes abiertas (OSINT).
-- Automatización y administración de servidores en entornos Linux[cite: 2].
+- Automatización y administración de servidores en entornos Linux.
 - Integración de buenas prácticas (DevSecOps inicial).
 
 </td>
@@ -140,7 +140,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 **Técnicas**
 - Desarrollo Full-Stack.
 - APIs REST & Microservicios.
-- Análisis de vulnerabilidades de red[cite: 2] y código.
+- Análisis de vulnerabilidades de red y código.
 - Personalización avanzada de sistemas operativos.
 
 </td>
@@ -149,8 +149,8 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 **Profesionales**
 - Resolución de problemas técnicos complejos.
-- Comunicación efectiva[cite: 2] y aprendizaje autodidacta.
-- Adaptabilidad a nuevos entornos[cite: 2].
+- Comunicación efectiva y aprendizaje autodidacta.
+- Adaptabilidad a nuevos entornos.
 - Visión emprendedora.
 
 </td>
