@@ -3,7 +3,7 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica.</sub>
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <td width="50%">
 
 **Conocimientos**
-- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS).
+- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS) Diseño (Figma).
 - **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga), pentesting y auditoría de redes (Wireshark, Nmap).
 - **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB).
 
@@ -29,7 +29,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 **Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP), Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
-- **🔧 Herramientas & Hardware:** Figma, Mantenimiento y diagnóstico técnico de equipos.
+- **🔧 Hardware:** Mantenimiento, reparación y diagnóstico técnico de equipos.
 - **🤝 Habilidades:** Resolución de problemas complejos, trabajo colaborativo, disciplina y aprendizaje continuo.
 
 </td>
