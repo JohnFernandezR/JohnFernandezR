@@ -26,8 +26,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 - **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
 
 </td>
-</tr>
-</table>
+
 
 ---
 
