@@ -108,8 +108,8 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas
-    " />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=0a0a0a&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha" />
 </div>
 
