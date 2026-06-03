@@ -36,7 +36,7 @@ Desarrollo · Ciberseguridad · Hacking Ético
 ## 🧩 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,linux,arch,docker,git,bash,html,css,js&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,linux,arch,docker,git,html,css,js&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
