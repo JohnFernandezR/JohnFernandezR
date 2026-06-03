@@ -3,7 +3,7 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica</sub>
 </p>
 
 ---
