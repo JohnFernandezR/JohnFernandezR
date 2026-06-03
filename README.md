@@ -23,7 +23,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 **Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Linux (Arch Linux, Hyprland, Zsh), Docker, Git/GitFlow, SonarQube.
 - **🔧 Hardware:** Mantenimiento y diagnóstico técnico de equipos.
-- **🤝 Habilidades:** Resolución de problemas y aprendizaje continuo.
+- **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
 
 </td>
 </tr>
@@ -34,28 +34,24 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 ## 🧩 Stack Principal
 
 ### 💻 Desarrollo
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=00ff00&borderColor=ff0000" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff00&borderColor=ff0000" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ff00&borderColor=ff0000" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff00&borderColor=ff0000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00ff00&borderColor=ff0000" alt="Spring Boot" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,spring&theme=dark" alt="Desarrollo" />
+</p>
 
 ### ⚙️ Infraestructura & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=00ff00&borderColor=ff0000" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ff00&borderColor=ff0000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00ff00&borderColor=ff0000" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git_&_GitFlow-0D1117?style=for-the-badge&logo=git&logoColor=00ff00&borderColor=ff0000" alt="Git" />
-  <img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=00ff00&borderColor=ff0000" alt="SonarQube" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git&theme=dark" alt="Infraestructura" />
+  <br><br>
+  <!-- Herramientas específicas con botones sólidos -->
+  <img src="https://img.shields.io/badge/GitFlow-000000?style=for-the-badge&logo=git&logoColor=00ff00" alt="GitFlow" />
+  <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=00ff00" alt="SonarQube" />
+</p>
 
 ### 🛡️ Ciberseguridad
-<div align="center">
-  <img src="https://img.shields.io/badge/Herramientas_BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=00ff00&borderColor=ff0000" alt="BlackArch" />
-  <img src="https://img.shields.io/badge/Inteligencia_OSINT-0D1117?style=for-the-badge&logoColor=00ff00&borderColor=ff0000" alt="OSINT" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/BlackArch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=00ff00" alt="BlackArch" />
+  <img src="https://img.shields.io/badge/Inteligencia_OSINT-000000?style=for-the-badge&logo=torbrowser&logoColor=00ff00" alt="OSINT" />
+</p>
 
 ---
 
@@ -147,10 +143,10 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 
 <div align="center">
   <a href="mailto:TU_CORREO_AQUI">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff00&borderColor=ff0000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Email" />
   </a>
   <a href="TU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff00&borderColor=ff0000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn" />
   </a>
 </div>
 <br>
