@@ -1,6 +1,6 @@
 <h1 align="center">Ingeniero Informático</h1>
 <p align="center">
-Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
+Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 
 ---
@@ -23,7 +23,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 **Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Linux (Arch Linux, Hyprland, Zsh), Docker, Git/GitFlow, SonarQube.
 - **🔧 Hardware:** Mantenimiento y diagnóstico técnico de equipos.
-- **🤝 Habilidades:** Resolución de problemas y aprendizaje continuo.
+- **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
 
 </td>
 </tr>
@@ -60,14 +60,6 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 <table>
 <tr>
 <td width="50%">
-
-### EcoSistema UFRO
-*Sistema de economía circular e incentivo al reciclaje.*
-
-- Arquitectura y desarrollo backend con Spring Boot.
-- Implementación de diagramas de despliegue UML.
-- Integración de buenas prácticas y seguridad de datos.
-- Diseño orientado a la escalabilidad.
 
 </td>
 
@@ -133,8 +125,8 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=00000000&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=00000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=0a0a0a&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha de contribuciones" />
 </div>
 
 ---
