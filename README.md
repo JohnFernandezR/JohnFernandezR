@@ -10,6 +10,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
   <img src="https://raw.githubusercontent.com/JohnFernandezR/JohnFernandezR/main/animacion.gif" width="600" alt="Animación Cyber" />
 </div>
 
+
 ---
 
 ## ⚡ Perfil Técnico
