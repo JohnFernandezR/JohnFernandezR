@@ -17,7 +17,6 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <table>
 <tr>
 <td width="50%">
-
 **Conocimientos**
 - **💻 Desarrollo:** Backend (Java, Spring Boot, Python, PHP, C++) y Frontend (Vue.js, JS, HTML, CSS) Diseño (Figma).
 - **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga,etc), pentesting y auditoría de redes (Wireshark, Nmap).
@@ -26,7 +25,6 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 </td>
 
 <td width="50%">
-
 **Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Servidores Linux (Apache, DNS, FTP), Arch Linux, Hyprland, Docker, Git/GitFlow, SonarQube.
 - **🔧 Hardware:** Mantenimiento, reparación y diagnóstico técnico de equipos.
