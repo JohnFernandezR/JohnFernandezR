@@ -23,7 +23,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 **Entorno de trabajo**
 - **⚙️ Infra & DevOps:** Linux (Arch Linux, Hyprland, Zsh), Docker, Git/GitFlow, SonarQube.
 - **🔧 Hardware:** Mantenimiento y diagnóstico técnico de equipos.
-- **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
+- **🤝 Habilidades:** Resolución de problemas y aprendizaje continuo.
 
 </td>
 </tr>
