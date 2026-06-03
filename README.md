@@ -111,7 +111,7 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 <td width="50%">
 
 **Técnicas**
-- Desarrollo Full-Stack seguro.
+- Desarrollo Full-Stack.
 - APIs REST & Microservicios.
 - Análisis de vulnerabilidades y código.
 - Personalización avanzada de sistemas operativos.
@@ -142,10 +142,10 @@ Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 ## 📫 Contacto e Idiomas
 
 <div align="center">
-  <a href="mailto:TU_CORREO_AQUI">
+  <a href="mailto:j.fernandez15@ufromail.cl">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Email" />
   </a>
-  <a href="TU_LINKEDIN_AQUI">
+  <a href="NOTENGO">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn" />
   </a>
 </div>
