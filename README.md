@@ -6,9 +6,9 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
 </p>
 
-<p align="center">
-  <img src="https://github.com/JohnFernandezR/JohnFernandezR/blob/main/animacion.gif?raw=true" width="600" alt="Cyber GIF" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JohnFernandezR/JohnFernandezR/main/animacion.gif" width="600" alt="Animación Cyber" />
+</div>
 
 ---
 
