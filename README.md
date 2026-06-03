@@ -3,8 +3,9 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica</sub>
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
 </p>
+
 <div align="center">
   <img src="https://i.makeagif.com/media/11-11-2015/W7e1lM.gif" width="600" alt="Cyber GIF" />
 </div>
