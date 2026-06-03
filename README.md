@@ -1,6 +1,6 @@
 <h1 align="center">Ingeniero Informático</h1>
 <p align="center">
-Desarrollo · Ciberseguridad · Hacking Ético
+Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 </p>
 
 ---
@@ -12,20 +12,18 @@ Desarrollo · Ciberseguridad · Hacking Ético
 <td width="50%">
 
 **Especialización**
-- **Backend & Frontend:** Java (Spring Boot), Python, C++ y desarrollo de interfaces.
-- **Seguridad:** Hacking Ético, OSINT, pentesting y auditoría de redes.
-- **Bases de Datos:** Diseño, modelamiento y optimización.
-- **Arquitectura:** Diseño de APIs REST seguras (JWT, control de acceso).
+- **💻 Desarrollo:** Backend (Java, Spring Boot, Python, C++) y Frontend (JS, HTML, CSS).
+- **🛡️ Ciberseguridad:** Hacking Ético, OSINT, pentesting y auditoría de redes.
+- **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos.
 
 </td>
 
 <td width="50%">
 
 **Entorno de trabajo**
-- **OS:** Linux (Arch Linux, Hyprland, Zsh).
-- **DevOps:** GitFlow, Contenerización (Docker).
-- **Control de versiones:** Git.
-- **Hardware:** Mantenimiento y diagnóstico técnico de equipos.
+- **⚙️ Infra & DevOps:** Linux (Arch Linux, Hyprland, Zsh), Docker, Git/GitFlow, SonarQube.
+- **🔧 Hardware:** Mantenimiento y diagnóstico técnico de equipos.
+- **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
 
 </td>
 </tr>
@@ -35,9 +33,29 @@ Desarrollo · Ciberseguridad · Hacking Ético
 
 ## 🧩 Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,linux,arch,docker,git,html,css,js&theme=dark" alt="Tech Stack" />
-</p>
+### 💻 Desarrollo
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=00ff00&borderColor=ff0000" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ff00&borderColor=ff0000" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00ff00&borderColor=ff0000" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ff00&borderColor=ff0000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00ff00&borderColor=ff0000" alt="Spring Boot" />
+</div>
+
+### ⚙️ Infraestructura & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=00ff00&borderColor=ff0000" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00ff00&borderColor=ff0000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00ff00&borderColor=ff0000" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git_&_GitFlow-0D1117?style=for-the-badge&logo=git&logoColor=00ff00&borderColor=ff0000" alt="Git" />
+  <img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=00ff00&borderColor=ff0000" alt="SonarQube" />
+</div>
+
+### 🛡️ Ciberseguridad
+<div align="center">
+  <img src="https://img.shields.io/badge/Herramientas_BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=00ff00&borderColor=ff0000" alt="BlackArch" />
+  <img src="https://img.shields.io/badge/Inteligencia_OSINT-0D1117?style=for-the-badge&logoColor=00ff00&borderColor=ff0000" alt="OSINT" />
+</div>
 
 ---
 
@@ -119,8 +137,8 @@ Desarrollo · Ciberseguridad · Hacking Ético
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&theme=dark&background=0a0a0a&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnFernandezR&show_icons=true&bg_color=00000000&title_color=ff0000&text_color=00ff00&icon_color=ff0000&hide_border=true" height="195" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFernandezR&background=00000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="195" alt="Racha de contribuciones" />
 </div>
 
 ---
@@ -129,10 +147,10 @@ Desarrollo · Ciberseguridad · Hacking Ético
 
 <div align="center">
   <a href="mailto:TU_CORREO_AQUI">
-    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff00&borderColor=ff0000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff00&borderColor=ff0000" alt="Email" />
   </a>
   <a href="TU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff00&borderColor=ff0000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff00&borderColor=ff0000" alt="LinkedIn" />
   </a>
 </div>
 <br>
