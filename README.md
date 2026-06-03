@@ -1,6 +1,6 @@
 <h1 align="center">Ingeniero Informático</h1>
 <p align="center">
-Desarrollo  · Ciberseguridad · Hacking Ético
+Desarrollo Full-Stack · Ciberseguridad · Hacking Ético
 </p>
 
 ---
@@ -26,7 +26,8 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 - **🤝 Habilidades:** Resolución de problemas complejos y aprendizaje continuo.
 
 </td>
-
+</tr>
+</table>
 
 ---
 
@@ -59,6 +60,14 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 <table>
 <tr>
 <td width="50%">
+
+### EcoSistema UFRO
+*Sistema de economía circular e incentivo al reciclaje.*
+
+- Arquitectura y desarrollo backend con Spring Boot.
+- Implementación de diagramas de despliegue UML.
+- Integración de buenas prácticas y seguridad de datos.
+- Diseño orientado a la escalabilidad.
 
 </td>
 
