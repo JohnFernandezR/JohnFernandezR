@@ -3,7 +3,7 @@
 Desarrollo  · Ciberseguridad · Hacking Ético
 </p>
 <p align="center">
-<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica inicial.</sub>
+<sub>Estudiante de 4to año de Ingeniería en Informática buscando práctica.</sub>
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@ Desarrollo  · Ciberseguridad · Hacking Ético
 
 **Conocimientos**
 - **💻 Desarrollo:** Backend (Java, Spring Boot, Python, C++) y Frontend (Vue.js, JS, HTML, CSS).
-- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga), pentesting y auditoría de redes (Wireshark, Nmap).
+- **🛡️ Ciberseguridad:** Kali Linux, Hacking Ético, OSINT (SpiderFoot, Sherlock, PhoneInfoga,etc), pentesting y auditoría de redes (Wireshark, Nmap).
 - **🏗️ Arquitectura:** Diseño de APIs REST seguras (JWT) y modelado de bases de datos (MySQL, MariaDB).
 
 </td>
